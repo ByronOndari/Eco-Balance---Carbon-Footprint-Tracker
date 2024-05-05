@@ -20,13 +20,13 @@
     * Stay informed about current air quality levels in your location.
     * Make informed choices about your activities based on environmental factors.
 
-**Technologies:**
+**Technologies/Tools:**
 
-* Android Studio (Development Environment)
-* Kotlin (Programming Language)
-* TensorFlow Lite (Machine Learning)
-* Python (Backend Scripting)
-* Air Quality Monitoring API (External Data)
+* Android Studio
+* Kotlin
+* TensorFlow Lite
+* Python
+* Air Quality Monitoring API
 
 **Getting Started:**
 
